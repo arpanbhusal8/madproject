@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mad_project_actual</string>
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+    <string name="descr">Stay safe with our app, automatically sending your location to your emergency contact at set intervals, giving you and your loved ones peace of  mind.</string>
+    <string name="forget">Forgot Password?</string>
+</resources>
